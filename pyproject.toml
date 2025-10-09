@@ -1,0 +1,17 @@
+[project]
+name = "demo-great-expectations"
+version = "0.1.0"
+description = "This project aims to demonstrate the use of great expectations with a simple example."
+authors = [
+    {name = "JadesonBruno",email = "jadesonbruno.a@outlook.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
