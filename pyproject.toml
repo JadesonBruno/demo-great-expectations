@@ -9,6 +9,7 @@ license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
+    "great-expectations (>=1.6.4,<2.0.0)"
 ]
 
 
